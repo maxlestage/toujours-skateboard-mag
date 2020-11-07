@@ -1,0 +1,15 @@
+
+/* https://www.gradient-animator.com/*/
+
+body {
+    background: linear-gradient( 319deg, #7c7841, #2d241e, #6e8161, #3d5d2b);
+    background-size: 1000% 1000%;
+    animation: gradient 20s ease infinite;
+}
+
+@keyframes gradient {
+    0%{background-position:2% 0%}
+    50%{background-position:99% 100%}
+    100%{background-position:2% 0%}
+}
+
