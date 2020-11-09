@@ -1,0 +1,10 @@
+body
+{
+    background-image: url('toujours.PNG');
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-size: 70%;
+    background-repeat:no-repeat;
+    margin-bottom: 40rem;
+    position: center; 
+}
