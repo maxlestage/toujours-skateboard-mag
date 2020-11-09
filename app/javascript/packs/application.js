@@ -8,6 +8,7 @@ require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 
+// Rajouter suivant le tuto
 require ("jquery").start() 
 require ("jquery_ujs").start() 
 require ("turbolinks").start() 
