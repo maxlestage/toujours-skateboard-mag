@@ -23,7 +23,6 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 # gem 'mail_form' sert à créer un formulaire de contact
-gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'mail_form'
 gem 'jquery-rails', '~> 4.1', '>= 4.1.1'
 gem 'dotenv-rails', groups: [:development, :test]
