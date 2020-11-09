@@ -6,7 +6,8 @@
     margin-bottom: 5%;
 }
 
-
+@import "bootstrap-sprockets";
+@import "bootstrap";
 
 body {
   .hidden { display: none; }
