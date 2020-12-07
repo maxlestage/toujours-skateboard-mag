@@ -246,6 +246,16 @@
         transform: translate(-10%, 10%);
     }
 }
+body {
+    background-image: url("toujours.PNG") !important;
+    background-position-x: 50% !important;
+    background-position-y: 50% !important;
+    background-size: 70% !important;
+    background-repeat:no-repeat !important;
+    margin-bottom: 40rem !important;
+    position: center !important; 
+}
+
 /* body {
     background: transparent;
     display: block;
