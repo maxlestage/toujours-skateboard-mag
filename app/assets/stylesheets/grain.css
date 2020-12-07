@@ -246,14 +246,14 @@
         transform: translate(-10%, 10%);
     }
 }
-body {
+/* body {
     background: transparent;
     display: block;
     height: 100%;
     position: relative;
     width: 100%;
     overflow: hidden;
-}
+} */
 body > * {
     z-index: 5;
 }
