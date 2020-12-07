@@ -253,10 +253,10 @@
     position: relative;
     width: 100%;
     overflow: hidden;
-} */
+} 
 body > * {
     z-index: 5;
-}
+}*/
 body:after {
     -webkit-animation: grain 5s steps(10) infinite;
     -moz-animation: grain 5s steps(10) infinite;
